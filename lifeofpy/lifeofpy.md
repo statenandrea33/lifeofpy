@@ -1,0 +1,4 @@
+ 
+# lifeofpy module
+
+::: lifeofpy.lifeofpy
