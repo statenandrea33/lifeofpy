@@ -48,5 +48,7 @@ nav:
     - FAQ: faq.md
     - Changelog: changelog.md
     - Report Issues: https://github.com/statenandrea33/lifeofpy/issues
+    - Examples: 
+        - examples/intro.ipynb
     - API Reference:
           - lifeofpy module: lifeofpy.md
