@@ -2,6 +2,7 @@
 
 
 [![image](https://img.shields.io/pypi/v/lifeofpy.svg)](https://pypi.python.org/pypi/lifeofpy)
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/statenandrea33/lifeofpy/blob/main/docs/examples/key_features.ipynb)
 
 
 **A python package for interactive mapping. **
